@@ -23,6 +23,9 @@
 			<artifactId>postgresql</artifactId>
 			<version>42.2.23</version>
 		</dependency>
-
+	
 	</dependencies>
+	<build>
+		<finalName>demoapp</finalName>
+	</build>
 </project>
