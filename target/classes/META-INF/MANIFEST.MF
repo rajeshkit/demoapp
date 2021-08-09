@@ -1,5 +1,15 @@
 Manifest-Version: 1.0
 Built-By: rajesh
 Build-Jdk: 15.0.2
+Class-Path: libs/hibernate-core-5.5.5.Final.jar libs/jboss-logging-3.4.2
+ .Final.jar libs/javax.persistence-api-2.2.jar libs/javassist-3.27.0-GA.
+ jar libs/byte-buddy-1.11.8.jar libs/antlr-2.7.7.jar libs/jboss-transact
+ ion-api_1.2_spec-1.1.1.Final.jar libs/jandex-2.2.3.Final.jar libs/class
+ mate-1.5.1.jar libs/javax.activation-api-1.2.0.jar libs/hibernate-commo
+ ns-annotations-5.1.2.Final.jar libs/jaxb-api-2.3.1.jar libs/jaxb-runtim
+ e-2.3.1.jar libs/txw2-2.3.1.jar libs/istack-commons-runtime-3.0.7.jar l
+ ibs/stax-ex-1.8.jar libs/FastInfoset-1.2.15.jar libs/postgresql-42.2.23
+ .jar libs/checker-qual-3.5.0.jar
+Main-Class: com.demo.client.Ams
 Created-By: Maven Integration for Eclipse
 
