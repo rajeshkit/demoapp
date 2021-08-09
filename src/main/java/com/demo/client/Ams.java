@@ -11,6 +11,7 @@ public class Ams {
 		a1.setBranchName("xyz");
 		a1.setCity("Mumbai");
 		System.out.println("Hai Hello How are you");
+		System.out.println("Welcome to chennai");
 		Employee e1=new Employee();
 		e1.seteId(100);
 		e1.setEname("Rajesh");
