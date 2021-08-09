@@ -10,7 +10,7 @@ public class Ams {
 		a1.setAccountId(1230001);
 		a1.setBranchName("xyz");
 		a1.setCity("Mumbai");
-		
+		System.out.println("Hai Hello How are you");
 		Employee e1=new Employee();
 		e1.seteId(100);
 		e1.setEname("Rajesh");
